@@ -1,6 +1,6 @@
 # aritra_first_project
 
-A new Flutter project.
+This is a POC made by me showing the log-in, sign up and user details window with fully functional front end features like use-state, accessing camera, accessing live location and many more
 
 ## Getting Started
 
